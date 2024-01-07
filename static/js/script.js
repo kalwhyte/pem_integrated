@@ -5,5 +5,6 @@
         link.addEventListener('click', (event) => {
             event.preventDefault();
             innerCard.computedStyleMap.transform = 'rotateY(180deg)';
+           //innerCard.computedStyleMap.transform = 'rotateY(180deg)';
         });
     });
