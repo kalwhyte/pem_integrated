@@ -19149,28 +19149,53 @@ p.count-text {
 }
 
 .w3l-index4 .clients-slider li.anim1 {
-    -webkit-animation: cycle 15s linear infinite;
-    animation: cycle 15s linear infinite;
+    -webkit-animation: cycle 5s linear infinite;
+    animation: cycle 5s linear infinite;
 }
 
 .w3l-index4 .clients-slider li.anim2 {
-    -webkit-animation: cycle2 15s linear infinite;
-    animation: cycle2 15s linear infinite;
+    -webkit-animation: cycle2 6s linear infinite;
+    animation: cycle2 5s linear infinite;
 }
 
 .w3l-index4 .clients-slider li.anim3 {
-    -webkit-animation: cycle3 15s linear infinite;
-    animation: cycle3 15s linear infinite;
+    -webkit-animation: cycle3 6s linear infinite;
+    animation: cycle3 75s linear infinite;
 }
 
 .w3l-index4 .clients-slider li.anim4 {
-    -webkit-animation: cycle4 15s linear infinite;
-    animation: cycle4 15s linear infinite;
+    -webkit-animation: cycle4 6s linear infinite;
+    animation: cycle4 7s linear infinite;
 }
 
 .w3l-index4 .clients-slider li.anim5 {
-    -webkit-animation: cycle5 15s linear infinite;
-    animation: cycle5 15s linear infinite;
+    -webkit-animation: cycle5 6s linear infinite;
+    animation: cycle5 5s linear infinite;
+}
+
+.w3l-index4 .clients-slider li.anim6 {
+    -webkit-animation: cycle6 7s linear infinite;
+    animation: cycle6 7s linear infinite;
+}
+
+.w3l-index4 .clients-slider li.anim7 {
+    -webkit-animation: cycle7 7s linear infinite;
+    animation: cycle7 7s linear infinite;
+}
+
+.w3l-index4 .clients-slider li.anim8 {
+    -webkit-animation: cycle8 6 linear infinite;
+    animation: cycle8 6s linear infinite;
+}
+
+.w3l-index4 .clients-slider li.anim9 {
+    -webkit-animation: cycle9 12s linear infinite;
+    animation: cycle9 6s linear infinite;
+}
+
+.w3l-index4 .clients-slider li.anim0 {
+    -webkit-animation: cycle10 9s linear infinite;
+    animation: cycle10 5s linear infinite;
 }
 
 .w3l-index4 .clients-slider:hover li {
